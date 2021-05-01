@@ -15,24 +15,24 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Fork this repository to your Github account and pull it down to Glitch.
 
 ### JavaScript
-- [ ] Create a working fetch() request inside the click handler.
-- [ ] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
-- [ ] Get the response from the API request.
-- [ ] Log the response to the console.
+- [x] Create a working fetch() request inside the click handler.
+- [x] Declare a variable that stores the following API request URL: https://api.giphy.com/v1/gifs/search?q=puppy&rating=pg&api_key=dc6zaTOxFJmzC
+- [x] Get the response from the API request.
+- [x] Log the response to the console.
 
 ### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website link using the link on the session agenda.
+- [x] Push your changes!
+- [x] Save and submit your website link using the link on the session agenda.
 
 ## Day 2
 ### JavaScript
-- [ ] Using the same API request URL from last class, display the image from your console.log to the webpage.
-- [ ] Declare a variable and store the user's input inside of it.
-- [ ] Use this variable to update the API request URL based on the user's input.
-- [ ] Display the updated image on the screen.
+- [x] Using the same API request URL from last class, display the image from your console.log to the webpage.
+- [x] Declare a variable and store the user's input inside of it.
+- [x] Use this variable to update the API request URL based on the user's input.
+- [x] Display the updated image on the screen.
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 ### JavaScript
